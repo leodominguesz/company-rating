@@ -1,2 +1,2 @@
 # company-rating
-Aprendizado de máquina para classificação do rating de empresas do mercado de capitais
+Machine learning for rating companies in the capital market
